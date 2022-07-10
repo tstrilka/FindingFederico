@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finding Federico</string>
+    <string name="message_text">Is this Federico?</string>
+    <string name="federico_text">This is Federico</string>
+    <string name="not_federico_text">This is not Federico</string>
+</resources>
